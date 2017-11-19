@@ -1,0 +1,25 @@
+{
+  "name": "workflow",
+  "version": "1.0.0",
+  "description": "Web workflow with npm, gulp, sass etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beaupain-pat/workflow.git"
+  },
+  "keywords": [
+    "Sass",
+    "NPM",
+    "Gulp",
+    "GIT"
+  ],
+  "author": "Patrique Beaupain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beaupain-pat/workflow/issues"
+  },
+  "homepage": "https://github.com/beaupain-pat/workflow#readme"
+}
