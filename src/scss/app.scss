@@ -6,4 +6,9 @@ body {
 
 h1 {
 	color:blue;
+	transition:color 1s ease;
+}
+
+h1:hover {
+	transition:color 1s ease; 
 }
